@@ -57,6 +57,7 @@
 ---
 
 ## 📦 2大エングラムの Block-128 Uniform Int4 量子化
+https://huggingface.co/moneykoikoi/gemma4_golden_engraft/tree/main
 
 純粋 PyTorch（外部DLL/ライブラリ完全不要）の決定論的 Block-128 量子化により、超高精度（コサイン類似度 0.994+）を保ったまま文庫本サイズへ極小化！
 
