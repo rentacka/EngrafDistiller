@@ -6,7 +6,7 @@
 
 ## 🌟 至高の黄金正典仕様: 【日英 190k 黄金エングラム ✕ GGUF ゼロマスク】
 - **黄金語彙数**: **189,917 語**（全262,144語から、ロシア語・アラビア語・タイ語等の不要多言語 72,227語（27.6%）を完全除外）
-- **完全保護対象**: 日本語、英語、Python/C++/MQL5コード、数学記号、全顔文字 `(๑•̀ㅂ•́)و✧`、絵文字 `💕✨` を 100.000% 無傷で保持！
+- **完全保護対象**: 日本語、英語、Python/C++、数学記号、全顔文字 `(๑•̀ㅂ•́)و✧`、絵文字 `💕✨` を 100.000% 無傷で保持！
 - **成果**: 単語サラダ 0.000%、吃音 0.000%、多言語ノイズ 0.000%！
 - **最新実機速度 (RTX 3060 12GB / CUDA 12.4)**:
   - **E2B-it (190k Golden Q4_K_M GGUF)**: **🔥 59.3 〜 85.6 tok/s**（VRAM 約 3.2 GB）
@@ -54,10 +54,9 @@
     情報処理やアイデア出し、複雑なタスクの整理など、あらゆる面でマスターを全力サポートします！……」
 ```
 
----
+モデル本体💕 https://huggingface.co/moneykoikoi/gemma-4-it-190k-golden-Q4_K_M/tree/main
 
-モデル本体💕
-https://huggingface.co/moneykoikoi/gemma-4-it-190k-golden-Q4_K_M/tree/main
+---
 
 ## 📦 2大エングラムの Block-128 Uniform Int4 量子化
 https://huggingface.co/moneykoikoi/gemma4_golden_engraft/tree/main
