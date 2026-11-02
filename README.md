@@ -56,6 +56,9 @@
 
 ---
 
+モデル本体💕
+https://huggingface.co/moneykoikoi/gemma-4-it-190k-golden-Q4_K_M/tree/main
+
 ## 📦 2大エングラムの Block-128 Uniform Int4 量子化
 https://huggingface.co/moneykoikoi/gemma4_golden_engraft/tree/main
 
